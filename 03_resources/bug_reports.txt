@@ -1,4 +1,0 @@
-Title:
-Description:
-Expected:
-Steps to Reproduce:
